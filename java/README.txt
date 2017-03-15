@@ -1,12 +1,17 @@
 Lzw
 ---
 
-Lzw is a JAVA implementation of the LZW lossless data compression algorithm, which can compress and decompress abitrary files. The Lzw package uses a public Getopt packages which us included in the install under gnu\getopt. If this package is already installed, then this directory contents can be removed.
+Lzw is a JAVA implementation of the LZW lossless data compression algorithm, 
+which can compress and decompress abitrary files. The Lzw package uses a public 
+Getopt packages which us included in the install under gnu\getopt. If this package 
+is already installed, then this directory contents can be removed.
 
 Setup
 -----
 
-Once installed, the CLASSPATH environment variable must be updated to include the install directory and "java\" sub-directory. E.g., if the package was installed in C:\slzw, then CLASSPATH must include
+Once installed, the CLASSPATH environment variable must be updated to include the 
+install directory and "java\" sub-directory. E.g., if the package was installed 
+in C:\slzw, then CLASSPATH must include
   
 	C:\slzw:C:\slzw\java
 
