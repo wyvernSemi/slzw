@@ -208,8 +208,8 @@ int main (int argc, char *argv[])
             break;
         case 'h':
         case '?':
-            fprintf(stderr, "Usage: %s [-h] [-d] [-i <filename>]"
-                            " [-o <filename>]\n"
+            fprintf(stderr, "Usage: %s [-h] [-d] -i <filename>"
+                            " -o <filename>\n"
                             "\nOptions:\n"
                             "   -h Print help message\n"
                             "   -d Perform decompression\n"
