@@ -1,7 +1,7 @@
 # SLZW
 Simple LZW codec in C, along with Java and Python versions. It is a minimalist LZW implementation in C to illustrate the basic lossless compression algorithm. Documentation on the code can be found here:
 
-http://www.anita-simulators.org.uk/wyvernsemi/compression/comp_pt2.htm
+https://www.linkedin.com/pulse/notes-data-compression-part-3-simon-southwell/
 
 A general article on lossless data compression (which is the 'parent' article to the above), which includes a discussion on LZW, can be found here:
 
